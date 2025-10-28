@@ -1,4 +1,4 @@
-# Day 1 — Hello CLI
+# Day 1 #100daysOfRust — Hello CLI
 
 Guide to implementing main.rs
 - Goal: create a minimal command-line Rust program that prints a greeting and echoes arguments.
